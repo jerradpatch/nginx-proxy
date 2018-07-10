@@ -1,0 +1,13 @@
+2018/07/03 13:34:17 [emerg] 6468#11180: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/07/03 13:36:03 [emerg] 8136#3900: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/07/03 13:36:40 [emerg] 6816#10896: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/07/03 13:41:38 [notice] 5988#10912: signal process started
+2018/07/10 12:14:30 [error] 8084#5672: *1 CreateFile() "H:\nginx-1.14.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8081", referrer: "http://localhost:8081/"
+2018/07/10 12:42:34 [error] 8084#5672: *4 CreateFile() "H:\nginx-1.14.0/html/api/search" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/search HTTP/1.1", host: "localhost:8081"
+2018/07/10 12:44:04 [emerg] 5668#5480: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/07/10 12:44:20 [notice] 9596#9668: signal process started
+2018/07/10 12:44:45 [notice] 5480#9428: signal process started
+2018/07/10 12:44:45 [error] 5480#9428: CreateFile() "H:\nginx-1.14.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2018/07/10 12:44:54 [emerg] 9688#10140: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/07/10 12:47:58 [emerg] 2080#7252: invalid value "http_400" in H:\nginx-1.14.0/conf/nginx.conf:34
+2018/07/10 12:48:13 [emerg] 3516#9368: CreateDirectory() "h:\apiCache\dev" failed (3: The system cannot find the path specified)
